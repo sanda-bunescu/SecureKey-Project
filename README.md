@@ -1,6 +1,6 @@
 # SecureKey App
 
-This Java Swing application provides secure storage for usernames and passwords.
+This Java application provides secure storage for usernames and passwords.
 
 ## Database Setup
 
